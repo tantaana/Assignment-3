@@ -12,6 +12,10 @@
     color: white;
 }
 
+.h-adjust {
+    height: 400px;
+}
+
 @media only screen and (max-width: 991px) {
     .font1-h5 {
         font-size: 3rem;
@@ -41,6 +45,10 @@
 
     .font2-p1 {
         font-size: 0.6rem;
+    }
+
+    .h-adjust {
+        height: 500px;
     }
 
 }
