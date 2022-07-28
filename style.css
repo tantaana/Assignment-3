@@ -16,6 +16,10 @@
     height: 400px;
 }
 
+.new-marg {
+    margin-bottom: 180px;
+}
+
 @media only screen and (max-width: 991px) {
     .font1-h5 {
         font-size: 3rem;
@@ -49,6 +53,10 @@
 
     .h-adjust {
         height: 500px;
+    }
+
+    .new-marg {
+        margin-bottom: 80px;
     }
 
 }
