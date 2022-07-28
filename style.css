@@ -1,0 +1,46 @@
+.font1-h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 4rem;
+    color: white;
+}
+
+.font2-p1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.125rem;
+    color: white;
+}
+
+@media only screen and (max-width: 991px) {
+    .font1-h5 {
+        font-size: 3rem;
+    }
+
+    .font2-p1 {
+        font-size: 1rem;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    .font1-h5 {
+        font-size: 2rem;
+    }
+
+    .font2-p1 {
+        font-size: 0.8rem;
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+    .font1-h5 {
+        font-size: 1rem;
+    }
+
+    .font2-p1 {
+        font-size: 0.6rem;
+    }
+
+}
